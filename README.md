@@ -1,6 +1,10 @@
 # Laptop Price Prediction Using Machine Learning
 A complete machine learning pipeline for predicting laptop prices using regression algorithms with hyperparameter tuning (Optuna), model evaluation, and an interactive Streamlit app for deployment.
 
+## Hosted Web Application
+This project is hosted online at the following link : 
+
+[Laptop Price Predictor](https://laptop-price-prediction-using-machine-lcqf.onrender.com/)
 ## Project Overview 
 This project focuses on building an end-to-end machine learning model to predict laptop prices based on hardware specifications like RAM, SSD, processor, GPU brand, Os etc. The model is trained, tuned, evaluated, and deployed using Streamlit for interactive usage.
 
